@@ -1,0 +1,12 @@
+C:\Users\jccer\OneDrive\Documents\Ced\Attendance Management System\Attendance Management System\bin\Debug\Attendance Management System.exe.config
+C:\Users\jccer\OneDrive\Documents\Ced\Attendance Management System\Attendance Management System\bin\Debug\Attendance Management System.exe
+C:\Users\jccer\OneDrive\Documents\Ced\Attendance Management System\Attendance Management System\bin\Debug\Attendance Management System.pdb
+C:\Users\jccer\OneDrive\Documents\Ced\Attendance Management System\Attendance Management System\obj\Debug\Attendance Management System.csproj.AssemblyReference.cache
+C:\Users\jccer\OneDrive\Documents\Ced\Attendance Management System\Attendance Management System\obj\Debug\Attendance_Management_System.PAL.Forms.FormLogin.resources
+C:\Users\jccer\OneDrive\Documents\Ced\Attendance Management System\Attendance Management System\obj\Debug\Attendance_Management_System.Properties.Resources.resources
+C:\Users\jccer\OneDrive\Documents\Ced\Attendance Management System\Attendance Management System\obj\Debug\Attendance Management System.csproj.GenerateResource.cache
+C:\Users\jccer\OneDrive\Documents\Ced\Attendance Management System\Attendance Management System\obj\Debug\Attendance Management System.csproj.CoreCompileInputs.cache
+C:\Users\jccer\OneDrive\Documents\Ced\Attendance Management System\Attendance Management System\obj\Debug\Attendance Management System.exe
+C:\Users\jccer\OneDrive\Documents\Ced\Attendance Management System\Attendance Management System\obj\Debug\Attendance Management System.pdb
+C:\Users\jccer\OneDrive\Documents\Ced\Attendance Management System\Attendance Management System\bin\Debug\Attendance.dll
+C:\Users\jccer\OneDrive\Documents\Ced\Attendance Management System\Attendance Management System\obj\Debug\Attendan.D2EE07BA.Up2Date
